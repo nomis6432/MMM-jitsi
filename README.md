@@ -20,7 +20,7 @@ The `config` parameter has 3 optional arguments.
 
 A possible configuration could be:
 
-```json
+```js
 {
 	module: "MMM-jitsi",
 	position: "fullscreen_above",
